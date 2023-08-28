@@ -1,6 +1,12 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Note 2",
+    "text": "Testing the functionality of the app",
+    "id": "abcd8632-fa84-4900-89f2-da83d733ca32"
+  },
+  {
+    "title": "New Note",
+    "text": "Test Note\n",
+    "id": "5a5a923a-a04b-4cb0-bf8c-aa150a7d824d"
+  }
 ]
